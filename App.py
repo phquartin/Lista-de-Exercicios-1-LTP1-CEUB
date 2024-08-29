@@ -16,6 +16,6 @@ while True:
     else:
         print("Exercício Inválido!")
         continue
-    choice = input("Para sair digite 'N' |\tou\t| Digite 'S' para outro exercício").title()
+    choice = input("Para sair digite 'N' |\tou\t| Digite 'S' para outro exercício: ").title()
     if 'N' in choice:
         break
