@@ -1,7 +1,7 @@
 # Lista de Exercicios LTP1 CEUB
 
 # Lista de Exercícios 1 - Linguagens e Técnicas de Programação 1 em Python
-### Exercícios da Lista01 dentro da pasta "Lista01", dentro de "Exercicios.py" eu botei todos os 6 exercícios em uma função que pode ser executada pelo "App.py"
+### Dentro da pasta "Lista01" esta o arquivo "Exercicios.py" onde eu botei todos os 6 exercícios em uma função que pode ser executada pelo "App.py"
 
 Exercício 1: Peça ao usuário que insira um número. Se o número for par, exiba "Número par". Se for ímpar, exiba "Número ímpar".
 
